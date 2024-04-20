@@ -1,1 +1,2 @@
-This repository countains my personal projects of games which are upgraded from time to time.
+This repository countains my personal project of clasic game known as tetris.
+
